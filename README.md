@@ -5,7 +5,7 @@ Project Description:
 ---------------------
 
 **Overview:**
-The Todo Web App is a simple yet powerful task management application built using React, designed to help users organize and keep track of their tasks and to-dos efficiently. This project is a great example of a modern web application using React, context API, and local storage to manage and persist user data.
+The Todo Web App is a simple task management application built using React, designed to help users organize and keep track of their tasks and to-dos efficiently. This project is a great example of a modern web application using React, context API, and local storage to manage and persist user data.
 
 **Features:**
 1. **Add Tasks:** Users can add new tasks to their to-do list, specifying the task name and priority level (high, medium, low). Tasks are sorted based on priority.
